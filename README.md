@@ -1,3 +1,5 @@
+![Github-Readme-Image-2](https://github.com/SumeyraBayrak/SumeyraBayrak/assets/136161028/e0a26deb-0e0e-41f5-b439-1ecc330f6e59)
+
 # Predictive-Analytics-and-Data-Mining-Projects
 
 Bu repository, Predictive Analytics ve Data Mining kullanarak veri analiz eden, desenleri tanımlayan ve tahminlerde bulunan Kaggle projelerini içerir.
